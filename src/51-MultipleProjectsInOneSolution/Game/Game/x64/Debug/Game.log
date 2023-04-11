@@ -1,0 +1,2 @@
+﻿Application.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""void __cdecl engine::PrintMessage(void)" (?PrintMessage@engine@@YAXXZ)" in Funktion "main".
+C:\Users\lmeng\cppProjects\Game\x64\Debug\Game.exe : fatal error LNK1120: 1 nicht aufgelöste Externe
