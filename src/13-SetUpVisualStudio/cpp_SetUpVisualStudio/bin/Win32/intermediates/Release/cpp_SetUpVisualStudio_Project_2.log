@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: Das Zwischenverzeichnis (C:\Users\lmeng\cppProjects\cpp_SetUpVisualStudio\bin\Win32\intermediates\Release\) enthält freigegebene Dateien aus einem anderen Projekt (cpp_SetUpVisualStudio_Project_1.vcxproj). Dies kann zu einem falschen Bereinigungs- und Neuerstellungsverhalten führen.
+  Main.cpp
+  Code wird generiert.
+  Previous IPDB not found, fall back to full compilation.
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  cpp_SetUpVisualStudio_Project_2.vcxproj -> C:\Users\lmeng\cppProjects\cpp_SetUpVisualStudio\bin\Win32\Release\cpp_SetUpVisualStudio_Project_2.exe
