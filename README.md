@@ -1,6 +1,6 @@
 # ChernoCppTutorialCodes
 
-This repository contains C++ examples inspired by **The Cherno's C++ series**, organized by topic for easy navigation and learning. Each folder under `src` represents a concept withThis repository contains C++ examples inspired by **The Cherno's C++ series**, organized by topic for easy navigation and learning. Each folder under `src` represents a concept with a minimal, runnable example.
+This repository contains C++ examples inspired by **The Cherno's C++ series**, organized by topic for easy navigation and learning. Each folder under `src` represents a concept with a minimal, runnable example.
 
 ---
 Each folder contains:
